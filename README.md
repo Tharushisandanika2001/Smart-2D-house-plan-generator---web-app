@@ -113,15 +113,15 @@ flutter run -d chrome
 
 ## 🎥 Demo
 
-Watch the full demo video:  
-Smart 2D House Plan Generator Demo  
+Watch the full demo video here:  
+👉 [Smart 2D House Plan Generator Demo](https://drive.google.com/file/d/1IidAU3nmOK6m9dHnw3xL284TMr87kQrq/view?usp=drive_link)
 
 ---
 
 ## 📄 Documentation
 
-Project Documentation Folder  
-(Google Drive folder with detailed docs and images)
+Full project documentation:  
+👉 [Project Documentation Folder](https://drive.google.com/drive/folders/1vMGxTHqMIIU63WVv9oexNGkdv20JyXNv?usp=drive_link)
 
 ---
 

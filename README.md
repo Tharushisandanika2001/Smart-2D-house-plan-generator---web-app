@@ -328,12 +328,6 @@ Developed as a **Smart 2D House Plan Generator** project using:
 
 **Flutter Web • Dart • Python • Flask • Algorithms • 2D Visualization**
 
----
 
-## 📌 Project Resources
 
-| Resource         | Link                                                                                                           |
-| ---------------- | -------------------------------------------------------------------------------------------------------------- |
-| 💻 Source Code   | [GitHub Repository](https://github.com/Tharushisandanika2001/Smart-2D-house-plan-generator---web-app)          |
-| 🎥 Demo Video    | [Google Drive](https://drive.google.com/file/d/1aZ25b_yEEulMHtClPd3sEpp55icbSTDL/view?usp=drive_link)          |
-| 📚 Documentation | [Google Drive Folder](https://drive.google.com/drive/folders/12PahXlfGJ9i7oBuin8vBVoewRm7oGW4L?usp=drive_link) |
+
